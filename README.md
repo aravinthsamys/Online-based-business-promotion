@@ -5,3 +5,6 @@ $ Project Proposed for College : Gnanamani college of Technology, Pachal ,Namakk
 
 
 $ Link : https://aravinthadmin2.pythonanywhere.com
+
+
+$ Created using Python, Django , html, css, JavaScript, bootstrap, mysql Database ( on production ).
